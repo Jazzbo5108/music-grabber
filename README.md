@@ -9,7 +9,7 @@ python3 main.py artist_name [song_names...]
 The program will query Youtube for each song in the form "<artist_name> <song_name>".
 To use if artist name is unknown (or if downloading sound for video without artist) simply pass in "" for either song name or artist name.
 
+To display help text:
 ```sh
 python3 main.py --help
 ```
-Help text will be displayed.
